@@ -23,3 +23,4 @@ To enhance data visualization and interactivity, an interactive dashboard was cr
 •	A filterable view to analyze product category and brand performance.
 Conclusion
 This project demonstrated the end-to-end data analysis process, from SQL-based data extraction to Excel analysis and Tableau visualization. By structuring and analyzing sales data, key insights were drawn to help the company understand revenue patterns and improve decision-making in future sales strategies.
+Tableau presentation link: https://public.tableau.com/app/profile/alexandru.enache8360/viz/shared/B3DDG2FYS
