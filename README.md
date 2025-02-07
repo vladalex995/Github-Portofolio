@@ -9,8 +9,8 @@ The data preparation process involved working with SQL to create, populate, and 
 4.  Once the data was structured, an additional SQL query file was created to extract key metrics from multiple tables. This query retrieved:
 •	Total revenues per region, store, product category, and brand.
 •	A ranked list of top customers and sales representatives based on sales volume.
-5.  Data Analysis
-After extracting the required dataset, it was exported to Excel, where further analysis was performed. The following steps were taken:
+5.  Data Analysis,
+after extracting the required dataset, it was exported to Excel, where further analysis was performed. The following steps were taken:
 •	Data Quality Operations: Conducted basic data quality checks, ensuring completeness, consistency, and fixing any discrepancies if necessary.
 •	Pivot Tables: Created pivot tables to summarize and filter data based on revenue, store performance, and top-selling products.
 •	Graphical Representations: Designed bar charts, line graphs, and pie charts to visualize sales trends and highlight revenue distribution across different dimensions.
