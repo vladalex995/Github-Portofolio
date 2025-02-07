@@ -1,5 +1,4 @@
-Data Analyst Portfolio - Sales Analysis Project (PostgreSQL)
-Project Overview
+Data Analyst Portfolio - Sales Analysis Project (PostgreSQL) - 
 This project was undertaken to analyze sales activities within a company and gain insights into various sales trends occurring between 2024 and 2025. The analysis focused on understanding revenues across different dimensions such as region, store, product category, and brand. Additionally, identifying top customers and sales representatives was also considered to provide further business insights.
 Data Preparation
 The data preparation process involved working with SQL to create, populate, and manage relational database tables. The following SQL scripts were developed:
