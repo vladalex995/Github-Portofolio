@@ -14,7 +14,7 @@ after extracting the required dataset, it was exported to Excel, where further a
 •	Pivot Tables: Created pivot tables to summarize and filter data based on revenue, store performance, and top-selling products.
 •	Graphical Representations: Designed bar charts, line graphs, and pie charts to visualize sales trends and highlight revenue distribution across different dimensions.
 6.  Interactive Dashboard in Tableau
-To enhance data visualization and interactivity, an interactive dashboard was created in Tableau. The dashboard includes:
+To enhance data visualization and interactivity, an interactive dashboard was created. The dashboard includes:
 •	A revenue breakdown by region and store.
 •	Sales trends over time (2024-2025).
 •	No. of customers.
