@@ -2,8 +2,8 @@ Data Analyst Portfolio - Sales Analysis Project (PostgreSQL) -
 This project was undertaken to analyze sales activities within a company and gain insights into various sales trends occurring between 2024 and 2025. The analysis focused on understanding revenues across different dimensions such as region, store, product category, and brand.
 Data Preparation
 The data preparation process involved working with SQL to create, populate, and manage relational database tables. The following steps were followed:
-1.	Table Creation Script - This SQL script defines the necessary tables and their relationships, including sales transactions, products, customers, stores, and regions.
-2.	Data Insertion Script - This script populates the tables with sales records, ensuring a well-structured dataset for analysis.
+1.	Table Creation Script - This SQL script defines the necessary tables.
+2.	Data Insertion Script - This script populates the tables.
 3.	Table Deletion Script - Used for cleaning up the database by dropping tables when required.
 4.  Once the data was structured, an additional SQL query file was created to extract key metrics from multiple tables. This query retrieved:
 •	Total revenues per region, store, product category, and brand.
@@ -17,7 +17,7 @@ after extracting the required dataset, it was exported to Excel, where further a
 To enhance data visualization and interactivity, an interactive dashboard was created in Tableau. The dashboard includes:
 •	A revenue breakdown by region and store.
 •	Sales trends over time (2024-2025).
-•	Top customers and best-performing sales representatives.
+•	No. of customers.
 •	A filterable view to analyze product category and brand performance.
 7.  Conclusion
 This project demonstrated the end-to-end data analysis process, from SQL-based data extraction to Excel analysis and Tableau visualization. By structuring and analyzing sales data, key insights were drawn to help the company understand revenue patterns and improve decision-making in future sales strategies.
