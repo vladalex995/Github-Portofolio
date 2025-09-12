@@ -38,7 +38,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases two key projects
 
 ---
 
-### 📁 Project 2: COVID-19 Data Analysis
+### 📁 Project 2: COVID-19 Data Analysis (In Progress)
 
 - **Tools:** PostgreSQL, Excel, Tableau
 - **Overview:**  
