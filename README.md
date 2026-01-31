@@ -1,12 +1,12 @@
-# 📊 Data Analyst Portfolio
+#  Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio! This repository showcases two key projects that demonstrate my capabilities in data analysis, SQL, data visualization, and dashboarding. These projects span the complete data lifecycle — from raw data extraction to insightful business recommendations.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 📁 Project 1: Sales Analysis Project (2024–2025)
+###  Project 1: Sales Analysis Project (2024–2025)
 - **Tools:** PostgreSQL, Excel, Tableau
 - **Overview:**  
   This project was undertaken to analyze sales activities within a company and gain insights into sales trends across 2024–2025. The analysis explored revenue across various dimensions — region, store, product category, and brand.
@@ -33,12 +33,12 @@ Welcome to my Data Analyst Portfolio! This repository showcases two key projects
 - **Conclusion:**  
   This end-to-end analysis provided actionable insights into revenue trends and sales performance, enabling better decision-making.
 
-- 🔗 **Tableau Dashboard:**  
+-  **Tableau Dashboard:**  
   [View Interactive Dashboard](https://public.tableau.com/app/profile/alexandru.enache8360/viz/shared/B3DDG2FYS)
 
 ---
 
-### 📁 Project 2: COVID-19 Data Analysis (In Progress)
+###  Project 2: COVID-19 Data Analysis (In Progress)
 
 - **Tools:** PostgreSQL, Excel, Tableau
 - **Overview:**  
@@ -65,7 +65,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases two key projects
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **SQL (PostgreSQL):** Data extraction, table creation, and manipulation
 - **Excel:** Data cleaning, pivot tables, and visual analysis
@@ -74,7 +74,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases two key projects
 
 ---
 
-## 📫 Contact
+##  Contact
 
 If you'd like to get in touch or discuss my work:
 - **Email:** Vlad.Alex995@gmail.com
